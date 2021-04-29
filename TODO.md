@@ -1,12 +1,12 @@
-# TODO:
-## Major:
-- Get a basic algorithm up and running
-- Find a decent way to integrate it into the framework
+# ~~TODO:~~
+## ~~Major:~~
+- ~~Get a basic algorithm up and running~~
+- ~~Find a decent way to integrate it into the framework~~
 
-## Minor:
-- IdiotProof program
-    - Find user input areas
-        - Idiotproof said areas using:
+## ~~Minor:~~
+- ~~IdiotProof program~~
+    - ~~Find user input areas~~
+        - ~~Idiotproof said areas using:~~
             - ```python
             while True:
                 try:
